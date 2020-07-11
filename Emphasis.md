@@ -1,0 +1,1 @@
+What stands out the most gets noticed first, emphasis influences choices of [[colour]], value, [[size]] [[shape]] etc.

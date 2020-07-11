@@ -1,0 +1,1 @@
+Refers to the visual modes (eg drawing, model-making, digital modelling) used as tools for aiding [[design thinking]].

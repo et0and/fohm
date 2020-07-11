@@ -1,0 +1,1 @@
+The arrangement of [[element | elements]] in the painting or drawing. These may include balance/imbalance, repetition/singularity, movement/static, vertical/horizontal, simple/complex, [[symmetry | symmetry/asymmetry]], contrast/similarity, and/or harmony/discord.

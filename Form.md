@@ -1,0 +1,1 @@
+[[Form]] - Refers to an object’s shape and surface qualities giving a 3 dimensional aspect to the object.  Examples of surface qualities relate to the [[materiality]]; [[colour]], [[texture]] and [[finish]] of the object. It is an object which has, or appears to have, three dimensional volume and solidity.

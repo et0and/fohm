@@ -1,0 +1,3 @@
+A pattern is a repeated design element. Patterns are found on many plants and animals, in nature (for example, leaves and tabby cats) as well as on manufactured products, such as fabrics and wall and floor coverings.
+
+[[pattern | Rhythm]] is related to pattern in that it uses [[Repetition | repeating]] elements, but they may have a stronger quality of [[movement]] and be in the form of sequences or series.

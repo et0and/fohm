@@ -1,0 +1,5 @@
+The dimensions, proportions or [[scale]], of the various parts of an image or object, in relation to each other and to the object as a whole. The golden ratio 1:1.618 is considered an elegant proportion.
+
+[[size | Proportion]] has to do with the relationship between different parts of an object or its component pieces (or between those parts and the object as a whole). The proportions of an object made to be used, such as a teapot or a jug, may have a [[Function Principles | functional]] as well as an [[Aesthetic Principles | aesthetic]] purpose.
+
+Many [[shape | shapes]] in nature have the proportions of the golden section, a ratio identified by the [[Greek | Greeks]] and used in their buildings. Throughout history, [[Contrast | harmonious]] proportion in [[architecture]], [[painting]], and [[sculpture]] has often been arrived at using the golden section, which works on the principle that an object's proportions are most pleasing when they are based on the ratio of 1 to 1.618.

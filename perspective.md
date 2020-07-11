@@ -1,0 +1,1 @@
+One point, or linear, perspective is based around receding parallel lines that appear to meet at a vanishing point on the horizon or eye level. Atmospheric perspective blurs lines that are further away.

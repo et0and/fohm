@@ -1,0 +1,1 @@
+[[Texture]] - The look and feel of a [[surface]], adds richness and [[dimension]], emphasises and suggests mood or feeling.

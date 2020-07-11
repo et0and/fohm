@@ -1,0 +1,1 @@
+An object with strong "visual movement" tends to be shaped in a way that draws the eye in a certain direction. Its shape or shapes may be asymmetrical, flowing, or dynamic. Objects with less visual movement tend to have more static and symmetrical shapes.

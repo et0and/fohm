@@ -1,0 +1,1 @@
+A system is a group of interacting or interrelated entities that form a unified whole. A system is described by its spatial and temporal boundaries, surrounded and influenced by its [[environment]], described by its structure and purpose and expressed in its functioning. Systems are the subjects of study of [[systems theory]].

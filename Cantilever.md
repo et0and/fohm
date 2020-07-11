@@ -1,0 +1,1 @@
+A beam supported or fixed at one end carrying a load at the other.

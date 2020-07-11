@@ -1,0 +1,1 @@
+The appearance of top layer which may be rough, smooth, slippery, furry, soft etc.

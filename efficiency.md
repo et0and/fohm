@@ -1,0 +1,1 @@
+Technically, efficiency is the ratio of useful work achieved to the amount of energy expended. But the term is more often used in relation to a situation where work is productive, with minimum wasted effort or [[cost | expense]].
